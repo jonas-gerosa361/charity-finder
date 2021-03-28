@@ -4,8 +4,11 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="/assets/css/bootstrap-reboot.min.css">
         <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-        @stack('css')
+        <link rel="stylesheet" href="/assets/css/home.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet">
         <title>Ajuda Social</title>
     </head>
     <body>
