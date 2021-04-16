@@ -22,6 +22,8 @@
                     </h1>
                 </div>
             </div>
+        </div>
+        <div class="container mt-3">
             <div class="row">
                 <div class="col-xs-12">
                     <h3>Para localizar instituição mais próxima informe seu CEP</h3>
